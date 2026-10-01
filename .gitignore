@@ -1,0 +1,16 @@
+# Security: never expose WP-Cleaner to the web
+wp-cleaner.php
+
+# Cache & backup directories (generated at runtime)
+wp-cleaner-cache/
+wp-cleaner-backup/
+
+# Generated reports
+wp-cleaner-report-*.html
+
+# Log files
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
