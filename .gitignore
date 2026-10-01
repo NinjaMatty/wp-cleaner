@@ -1,5 +1,8 @@
-# Security: never expose WP-Cleaner to the web
-wp-cleaner.php
+# ── NOTE FOR WORDPRESS SITES ──────────────────────────────────────────────
+# When you deploy wp-cleaner.php to a WordPress root, add it to THAT
+# site's .gitignore so it doesn't get committed to the site repo:
+#   echo "wp-cleaner.php" >> /path/to/wordpressroot/.gitignore
+# ──────────────────────────────────────────────────────────────────────────
 
 # Cache & backup directories (generated at runtime)
 wp-cleaner-cache/
