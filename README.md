@@ -164,14 +164,6 @@ This fetches the latest patterns from [scr34m/php-malware-scanner](https://githu
 
 ---
 
-## Architecture decisions
-
-See [`docs/adr/`](docs/adr/) for the key decisions:
-
-- [ADR 0001](docs/adr/0001-single-file-php.md) — Single PHP file
-- [ADR 0002](docs/adr/0002-signature-strategy.md) — Signature strategy
-- [ADR 0003](docs/adr/0003-db-report-only.md) — DB: report-only
-
 ## License
 
 GPL-3.0-or-later — see [LICENSE](LICENSE)
