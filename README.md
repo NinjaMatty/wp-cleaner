@@ -1,3 +1,8 @@
+<p align="center">
+  <img alt="Image" src="https://github.com/user-attachments/assets/1a52bd77-517b-4fa6-b60a-67b33363f5f7" />
+</p>
+
+
 # WP-Cleaner
 
 **WordPress Malware Scanner & Sanitizer** — single-file PHP emergency tool.
