@@ -7,6 +7,7 @@
 # Cache & backup directories (generated at runtime)
 wp-cleaner-cache/
 wp-cleaner-backup/
+docs/
 
 # Generated reports
 wp-cleaner-report-*.html

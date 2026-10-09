@@ -1,9 +1,15 @@
+<p align="center">
+  <img alt="Image" src="https://github.com/user-attachments/assets/1a52bd77-517b-4fa6-b60a-67b33363f5f7" />
+</p>
+
+
 # WP-Cleaner
 
 **WP-Cleaner is a powerful WordPress malware scanner, vulnerability detector, and incident response CLI tool.** Designed as a single-file PHP script, it acts as a comprehensive **WordPress security scanner** to detect webshells, remove malware, check core file integrity, and sanitize hacked WordPress sites. 
 
 Whether you need a quick **malware removal** tool, a **webshell detector**, or a way to find known **CVEs** in your plugins, WP-Cleaner is the ultimate emergency **cybersecurity** tool for WordPress admins and DevSecOps teams.
-[![License: GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 [![PHP: 7.4+](https://img.shields.io/badge/PHP-7.4%2B-777BB4.svg)](https://www.php.net)
 
 ---
@@ -164,14 +170,6 @@ This fetches the latest patterns from [scr34m/php-malware-scanner](https://githu
 - Always review the report before running `--fix` on a production site.
 
 ---
-
-## Architecture decisions
-
-See [`docs/adr/`](docs/adr/) for the key decisions:
-
-- [ADR 0001](docs/adr/0001-single-file-php.md) — Single PHP file
-- [ADR 0002](docs/adr/0002-signature-strategy.md) — Signature strategy
-- [ADR 0003](docs/adr/0003-db-report-only.md) — DB: report-only
 
 ## License
 
