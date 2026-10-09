@@ -1,0 +1,2 @@
+83951eb fix: track wp-cleaner.php in source control, clarify .gitignore usage
+69ad704 feat: WP-Cleaner v1.0.0 — initial implementation
