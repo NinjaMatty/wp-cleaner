@@ -1,7 +1,8 @@
 # WP-Cleaner
 
-**WordPress Malware Scanner & Sanitizer** — single-file PHP emergency tool.
+**WP-Cleaner is a powerful WordPress malware scanner, vulnerability detector, and incident response CLI tool.** Designed as a single-file PHP script, it acts as a comprehensive **WordPress security scanner** to detect webshells, remove malware, check core file integrity, and sanitize hacked WordPress sites. 
 
+Whether you need a quick **malware removal** tool, a **webshell detector**, or a way to find known **CVEs** in your plugins, WP-Cleaner is the ultimate emergency **cybersecurity** tool for WordPress admins and DevSecOps teams.
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![PHP: 7.4+](https://img.shields.io/badge/PHP-7.4%2B-777BB4.svg)](https://www.php.net)
 
