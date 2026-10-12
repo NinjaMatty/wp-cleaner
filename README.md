@@ -44,7 +44,7 @@ Upload a single file to your WordPress root:
 
 ```bash
 # On the server, from the WordPress root directory:
-wget https://raw.githubusercontent.com/NinjaMatty/wp-cleaner/refs/heads/master/wp-cleaner.php
+wget https://raw.githubusercontent.com/NinjaMatty/wp-cleaner/master/wp-cleaner.php
 ```
 
 ---
